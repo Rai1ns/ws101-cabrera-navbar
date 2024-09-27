@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ws101-cabrera-navbar/static/css/main.4fedc187.css",
+    "main.js": "/ws101-cabrera-navbar/static/js/main.c63147fc.js",
+    "static/media/it.bg2.jpg": "/ws101-cabrera-navbar/static/media/it.bg2.78445edafc15d5b1590b.jpg",
+    "static/media/logo.png": "/ws101-cabrera-navbar/static/media/logo.a22535d10b51b1ac98ce.png",
+    "index.html": "/ws101-cabrera-navbar/index.html",
+    "main.4fedc187.css.map": "/ws101-cabrera-navbar/static/css/main.4fedc187.css.map",
+    "main.c63147fc.js.map": "/ws101-cabrera-navbar/static/js/main.c63147fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fedc187.css",
+    "static/js/main.c63147fc.js"
+  ]
+}
